@@ -1,8 +1,9 @@
 # Gujarat Robofest Maze Solver
 
-Welcome to the **Gujarat Robofest Maze Solver** project repository! This repository contains all the resources and files used in our maze-solving robot project for Gujarat Robofest 4.0. Below, you'll find instructions on how to navigate and utilize the files effectively.
-We reached the Finals and solved the final maze in 1 min 40 seconds .
-Our rank was 5th . 
+Welcome to the Gujarat Robofest Maze Solver project repository! This repository contains all the resources and files used in our maze-solving robot project for Gujarat Robofest 4.0. Below, you'll find instructions on how to navigate and utilize the files effectively.
+We reached the Finals and solved the final maze in 1 min 40 seconds.
+Our rank was 5th.
+
 ---
 
 ## Repository Structure
