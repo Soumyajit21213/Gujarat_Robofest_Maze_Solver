@@ -135,8 +135,8 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 
 If you have any questions or need assistance, please feel free to reach out:
 
-- **Author:** 1. Soumyajit Samanta
-              2. Sidharth Nair
+- **Author:** - 1. Soumyajit Samanta
+              - 2. Sidharth Nair
 - **Email:** [Soumyajit2121@gmail.com](mailto\:soumyajit2121@gmail.com)
 
 
