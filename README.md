@@ -1,7 +1,8 @@
 # Gujarat Robofest Maze Solver
 
 Welcome to the **Gujarat Robofest Maze Solver** project repository! This repository contains all the resources and files used in our maze-solving robot project for Gujarat Robofest 4.0. Below, you'll find instructions on how to navigate and utilize the files effectively.
-
+We reached the Finals and solved the final maze in 1 min 40 seconds .
+Our rank was 5th . 
 ---
 
 ## Repository Structure
@@ -10,27 +11,18 @@ Welcome to the **Gujarat Robofest Maze Solver** project repository! This reposit
 
 This folder contains the Arduino source code used to program the maze-solving robot.
 
-- **How to Use:**
-  - Open the `.ino` files in [Arduino IDE](https://www.arduino.cc/en/software) (version 2.3.2 or later recommended).
-  - Follow the comments in the code to understand how the maze-solving logic is implemented.
-  - Upload the code to your ESP32-S3 microcontroller to test the robot's functionality.
+- **Requirement:**
+  - To open the `.ino` files , you need [Arduino IDE](https://www.arduino.cc/en/software) (version 2.3.2 or later recommended).
+  - Make sure your ESP32-S3 microcontroller is getting recognized by your system .
 
 ### 2. [PCB Design/](./PCB%20Design)
 
 This folder contains the design files for the robot's custom PCB.
 
-- **How to Use:**
-  - Files are in formats compatible with **Altium Designer**.
-  - Use these files to review the schematic, layout, and routing of the PCB.
-  - If you plan to modify the PCB, make sure you have experience with PCB design software.
 
 ### 3. [Proposal/](./Proposal)
 
-This folder contains the project proposal documents.
-
-- **How to Use:**
-  - Review the proposal to understand the project's objectives, methodology, and outcomes.
-  - Documents may be in `.pdf` or `.docx` format.
+This folder contains the project proposal documents to understand the project's objectives, methodology, and outcomes.
 
 ---
 
@@ -40,19 +32,6 @@ This folder contains the project proposal documents.
 
 This video demonstrates the robot successfully solving a maze. Use it as a reference for understanding the robot's capabilities and performance during the competition.
 
-### [.gitignore](./.gitignore)
-
-This file specifies the files and directories that Git should ignore. Developers can use it to maintain a clean repository.
-
-### [LICENSE](./LICENSE)
-
-This repository is licensed under the **Apache-2.0 License**. Please review the terms before using any of the project's resources.
-
-### [.DS\_Store](./.DS_Store)
-
-This is a system file automatically created by macOS. It can be ignored.
-
----
 
 ## Getting Started
 
@@ -87,7 +66,7 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 If you have any questions or need assistance, please feel free to reach out:
 
 - **Author:** Soumyajit Samanta
-- **Email:** [your-email@example.com](mailto\:your-email@example.com)
+- **Email:** [Soumyajit2121@gmail.com](mailto\:soumyajit2121@gmail.com)
 
-Happy coding and designing!
+
 
